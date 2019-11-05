@@ -9,9 +9,7 @@ True or True # Operator or
 not True # Operator not
 not False # Operator not
 
-
 #Latihan Menggunakan Perintah Print
-
 print ('True and True')
 print ('True and False')
 print ('True or False')
