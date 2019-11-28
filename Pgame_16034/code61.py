@@ -1,5 +1,5 @@
 # Pemrograman Game Praktikum 6
-# latihan code 6 : Kondisional
+# latihan code 6.1 : Kondisional
 
 # Buat variable untuk menampung inputan dari keyboard (user)
 myvar=input("Masukkan Numerik atau String : ")
