@@ -9,7 +9,7 @@
 ###Tempat		: Aula UMMU
 ###Durasi 		: 25 Menit, sesi ke1
 ###Nama Pemateri 	: Abdul Haris Muhammad, M.kom
-###Judul Materi 	: DIGITAL LIFESTY
+###Judul Materi 	: Digital Lifesty
 ###Isi Materi		:
 
 #Catatan saya untuk materi seminar yang disampaikan oleh pak Haris tentang Digital Lifesty, 
@@ -21,30 +21,29 @@ menurut beliau Digital Lifestyle yaitu gaya hidup digital.
 #3.The Impact Of Digital Lifeestyle
 #4.Data Science dan Digital Forensic Challenges (ilmu data dan tantangang forensic digital)
 
-#Digital Life
+#Digital Life :
 #1.Internet
 #2.Mobile Device
 #3.Iot (Internet of Things) Jumlah total pengguna internet 
 
-#Digital Life (internet) :
+#Digital Life (internet) 
 #Jumlah total pengguna internet aktif 150.0 juta, pengguna internet sebagai persentasi total populasi 56%, 
 jumlah total pengguna internet seluler aktif 142.8 juta dan pengguna internet seluler sebaga persentase dari total populasi53%
 
-#Mobile Life (Mobile Device) :
+#Mobile Life (Mobile Device) 
 #Total populasi 268.2 juta, langgar seluler355.5 juta, pengguna internet 150.0 juta, 
 pengguna media social aktif 150.0 juta dan pengguna media social seluler 130.0juta
 
-
-#Digital Identity
+#Digital Identity :
 #Informasi tentang keluarga, informasi pribadi dan apapun yang tidak dilindungi dimedia social
 
-#Dampak Gaya Hidup Digital
+#Dampak Gaya Hidup Digital :
 #She 80% foto 
 #Man 80% video 
 #Man 42,31% nonton video youtube
 #She 37% shoping
 
-#Hoax :
+#Hoax 
 #800.000 data kominfo situs data Hoax hati-hati dalam membaca informasi, jangan lihat sudut tepi baca isinya 
 Ilmu data dan tantangan forensic Digital
 #Volume, Variety dan velocity merupakan tantangan besar
@@ -56,7 +55,7 @@ Ilmu data dan tantangan forensic Digital
 ### Tempat		: Aula UMMU
 ### Durasi 		: 64 Menit, sesi ke1
 ### Nama Pemateri 	: Dr. Ing. Ridho Rahmat, M.sc
-### Judul Materi 	: DATA SCIENCE
+### Judul Materi 	: Data Science
 ### Isi Materi		:
 
 #Catatan saya untuk materi seminar yang disampaikan oleh Dr. Ridho tentang Data Science 
@@ -70,7 +69,7 @@ itu data yang kita kumpulkan adalah hasil observasi.
 #Jaman dulu data ada/yang dicatat 
 #Transformasi digital
 
-#Redefining data (2018)
+#Redefining data (2018) :
 #49K photo in Instagram
 #3.9M Google searches
 #4.3Youtube watch
@@ -97,7 +96,7 @@ itu data yang kita kumpulkan adalah hasil observasi.
 #Nilai-nilai dan cara-cara : ilmu yang mencoba mencari nilai dari data agar bernilai 
 bagai mana mengelola data science
 
-#Nilai-nilai yang Diatur Sebelum Menghasilkan Model
+#Nilai-nilai yang Diatur Sebelum Menghasilkan Model :
 #1.Data klinis/Model diagnose = Diabetes dan Non Diabetes
 #2.Data biometric/Model membuka kunci telepon
 #3.Data pidato/Mengambil model gambar
@@ -118,7 +117,7 @@ bagai mana mengelola data science
 #Xy = jaringan
 #Xy = banyak pengguna
 
-#Contoh apklikasinya berikut lebih abstrak
+#Contoh apklikasinya berikut lebih abstrak :
 #Deep learning application
 #Mewaranai gambar
 #melihat gambar
@@ -162,8 +161,8 @@ bagai mana mengelola data science
 
 #Mahsiswa sekarang tidak harus dipengaruhi dengan gaya belajar lama, tetapi diharuskan dengan 
 #gaya hidup yang mengikuti dan menyesuaikan dari waktu ke waktu. Contohnya seperti lagu lama yaitu 
-#bangun tidur ku terus mandi, jangan lupa mnggosok gigi dilihat dengan sekarang sudah ada 
-#perbedaan yaitu bangun pagi kucari handphoneehehehe
+#bangun tidur ku terus mandi, jangan lupa mnggosok gigi dilihat dengan sekarang sudah ada 
+#perbedaan yaitu bangun pagi kucari handphone
 
 #Setiap kita berinteraksi dengan dunia digital kita pasti temui yang namanya jejak digital, 
 #apapun yang kita lakukan menyakut dengan dunia digital itu  meninggalkan jejak, jejak itulah 
@@ -180,7 +179,7 @@ bagai mana mengelola data science
 #barangkali juga karena rekayasa dari bantuan teknologi yang lainnya. 
 
 #Semakin sering kita berinteraksi dengan dunia digital maka kita semakin punya resiko, 
-#hanya dua saja yang dikatakan didalam kategori digital ini yaitu orang yang sudah tahu 
+#hanya dua saja yang dikatakan didalam kategori digital ini yaitu orang yang sudah tahu 
 #dia di hack tetapi belum merasa dihack.
 
 #Adapaun kaidah yang ada dalam dunia digital ini dari hal-hal yang bersifat dengan 
