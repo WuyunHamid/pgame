@@ -2,13 +2,13 @@
 ### Npm			: 121055520116034
 ### Nama		: Wuyun_Hamid
 ***	
-## Materi Seminar I,
-# Waktu			: 10/12/2019 : 9:45-10:10
-# Tempat		: Aula UMMU
-# Durasi 		: 25 Menit, sesi ke1
-# Nama Pemateri 	: Abdul Haris Muhammad, M.kom
-# Judul Materi 		: Digital Lifesty
-# Isi Materi			:
+### Materi Seminar I,
+### Waktu			: 10/12/2019 : 9:45-10:10
+### Tempat		: Aula UMMU
+### Durasi 		: 25 Menit, sesi ke1
+### Nama Pemateri 	: Abdul Haris Muhammad, M.kom
+### Judul Materi 		: Digital Lifesty
+### Isi Materi			:
 Catatan saya untuk materi seminar yang disampaikan oleh pak Haris tentang Digital Lifesty, 
 menurut beliau Digital Lifestyle yaitu gaya hidup digital.
 Ada Beberapa Agenda :
@@ -39,12 +39,12 @@ Ilmu data dan tantangan forensic Digital
 - Volume, Variety dan velocity merupakan tantangan besar
 
 ## Materi Seminar II,
-# Waktu			: 10/12/2019 : 10:11-11:13
-# Tempat			: Aula UMMU
-# Durasi 			: 64 Menit, sesi ke1
-# Nama Pemateri 		: Dr. Ing. Ridho Rahmat, Msc
-# Judul Materi 		: Data Science
-# Isi Materi			:
+### Waktu			: 10/12/2019 : 10:11-11:13
+### Tempat			: Aula UMMU
+### Durasi 			: 64 Menit, sesi ke1
+### Nama Pemateri 		: Dr. Ing. Ridho Rahmat, Msc
+### Judul Materi 		: Data Science
+### Isi Materi			:
 Catatan saya untuk materi seminar yang disampaikan oleh Dr. Ridho tentang Data Science menurut beliau yang pertama kita 
 lihat dulu Data Redefining itu data yang kita lihat selama ini, itu data yang kita kumpulkan adalah hasil observasi
 Apa itu data science ?
@@ -99,12 +99,12 @@ Deep learning application
 - model yang belum lahit didunia ciamfar
 
 ## Materi Seminar III,
-# Waktu 		: 10/12/2019 : 11:15-12:25
-# Tempat 		: Aula UMMU
-# Durasi 		: 70 Menit, Sesi ke 3
-# Nama Pemateri 	: Yudi Prayudi, M.Kom
-# Judul Materi		 : Overview Forensik Digital
-# Isi Materi 		:
+### Waktu 		: 10/12/2019 : 11:15-12:25
+### Tempat 		: Aula UMMU
+### Durasi 		: 70 Menit, Sesi ke 3
+### Nama Pemateri 	: Yudi Prayudi, M.Kom
+### Judul Materi		 : Overview Forensik Digital
+### Isi Materi 		:
 Catatan saya untuk Materi Seminar yang disampaikan oleh Pak Yudi bagi saya menjadi beberapa bagian,
 yang pertama beliau berbicara mengenai permasalahan data yang terkait dengan potensi penyalahgunaan 
 data tersebut yang nanti akan berdampak pada hal-hal yang sebaliknya yaitu negative.
