@@ -1,14 +1,14 @@
-### Dirangkum oleh :
-### Npm			: 121055520116034
-### Nama		: Wuyun_Hamid
+### Dirangkum oleh  :
+### Npm		        	: 121055520116034
+### Nama	          : Wuyun_Hamid
 ***	
 ### Materi Seminar I,
-### Waktu			: 10/12/2019 : 9:45-10:10
-### Tempat		: Aula UMMU
-### Durasi 		: 25 Menit, sesi ke1
-### Nama Pemateri 	: Abdul Haris Muhammad, M.kom
-### Judul Materi 		: Digital Lifesty
-### Isi Materi			:
+### Waktu			    : 10/12/2019 : 9:45-10:10
+### Tempat		    : Aula UMMU
+### Durasi 		    : 25 Menit, sesi ke1
+### Nama Pemateri : Abdul Haris Muhammad, M.kom
+### Judul Materi 	: Digital Lifesty
+### Isi Materi		:
 Catatan saya untuk materi seminar yang disampaikan oleh pak Haris tentang Digital Lifesty, 
 menurut beliau Digital Lifestyle yaitu gaya hidup digital.
 Ada Beberapa Agenda :
@@ -20,10 +20,10 @@ Digital Life
 1. Internet
 2. Mobile Device
 3. Iot (Internet of Things) Jumlah total pengguna internet 
-Digital Life (internet) :
+Digital Life (internet) 
 - Jumlah total pengguna internet aktif 150.0 juta, pengguna internet sebagai persentasi total populasi 56%, 
 jumlah total pengguna internet seluler aktif 142.8 juta dan pengguna internet seluler sebaga persentase dari total populasi53%
-Mobile Life (Mobile Device) :
+Mobile Life (Mobile Device) 
 - Total populasi 268.2 juta, langgar seluler355.5 juta, pengguna internet 150.0 juta, 
 pengguna media social aktif 150.0 juta dan pengguna media social seluler 130.0juta
 Digital Identity
@@ -39,12 +39,12 @@ Ilmu data dan tantangan forensic Digital
 - Volume, Variety dan velocity merupakan tantangan besar
 
 ## Materi Seminar II,
-### Waktu			: 10/12/2019 : 10:11-11:13
-### Tempat			: Aula UMMU
-### Durasi 			: 64 Menit, sesi ke1
-### Nama Pemateri 		: Dr. Ing. Ridho Rahmat, Msc
-### Judul Materi 		: Data Science
-### Isi Materi			:
+### Waktu			    : 10/12/2019 : 10:11-11:13
+### Tempat		  	: Aula UMMU
+### Durasi 			  : 64 Menit, sesi ke1
+### Nama Pemateri : Dr. Ing. Ridho Rahmat, Msc
+### Judul Materi 	: Data Science
+### Isi Materi		:
 Catatan saya untuk materi seminar yang disampaikan oleh Dr. Ridho tentang Data Science menurut beliau yang pertama kita 
 lihat dulu Data Redefining itu data yang kita lihat selama ini, itu data yang kita kumpulkan adalah hasil observasi
 Apa itu data science ?
@@ -99,12 +99,12 @@ Deep learning application
 - model yang belum lahit didunia ciamfar
 
 ## Materi Seminar III,
-### Waktu 		: 10/12/2019 : 11:15-12:25
-### Tempat 		: Aula UMMU
-### Durasi 		: 70 Menit, Sesi ke 3
-### Nama Pemateri 	: Yudi Prayudi, M.Kom
-### Judul Materi		 : Overview Forensik Digital
-### Isi Materi 		:
+### Waktu         : 10/12/2019 : 11:15-12:25
+### Tempat 	      : Aula UMMU
+### Durasi 	     	: 70 Menit, Sesi ke 3
+### Nama Pemateri	: Yudi Prayudi, M.Kom
+### Judul Materi	: Overview Forensik Digital
+### Isi Materi 	  :
 Catatan saya untuk Materi Seminar yang disampaikan oleh Pak Yudi bagi saya menjadi beberapa bagian,
 yang pertama beliau berbicara mengenai permasalahan data yang terkait dengan potensi penyalahgunaan 
 data tersebut yang nanti akan berdampak pada hal-hal yang sebaliknya yaitu negative.
