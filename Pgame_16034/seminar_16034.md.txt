@@ -135,12 +135,19 @@ bagai mana mengelola data science
 #Judul Materi 	: Overview Forensik Digital
 #Isi Materi 	:
 
-#Catatan saya untuk Materi Seminar yang disampaikan oleh Pak Yudi bagi saya menjadi bebeapa bagian, 
-#bagian pertama beliau berbicara mengenai permasalahan data yang terkait dengan potensi penyalahgunaan 
-#data tersebut yang nanti akan berdampak pada hal-hal yang sebaliknya yaitu negative.
+#Catatan saya untuk Materi Seminar yang disampaikan oleh Pak Yudi bagi saya menjadi beberapa bagian, 
+yang pertama beliau berbicara mengenai permasalahan data yang terkait dengan potensi penyalahgunaan 
+data tersebut yang nanti akan berdampak pada hal-hal yang sebaliknya yaitu negative.
 
-#Berikut merupakan agenda yang disampaikan :
+#Digital Forensik
+#Tidak ada satu dari kita yang tidak meninggalkan jejak digital saat mengserakan digital 
+#Jalan orang mengveda have I been pwned
 
+#Tolls google mengetahui apa saja yang dicari :
+#Tulis mengecek passwoard
+#masukan email dan akun yang pernah di hek
+
+#Berikut ini merupakan Cyber Crime :
 #1.Ilmu Forensik
 #2.Forensik Digital
 #3.Kebutuhan SDM Forensik Digital
@@ -149,6 +156,17 @@ bagai mana mengelola data science
 #6.Prospek Forensik Digital di Indonesia
 #7.Sharing Knowledge
 #8.Asosiasi Forensik Digital Indonesia (AFDI)
+
+#Forensic dan Security :
+#Security :
+#1.Proteksi – cantiol dan mainterance
+#2.Deteksi – re covery
+#Forensic :
+#Crime/cases
+#Evidence
+#Rekontruksi
+#Law/rolicy
+#coars
 
 #Salah satu yang menjadi permasalahan kita adalah kemudahan kita dalam mebiarkan data pribadi, 
 #seperti halnya di facebook yang ketika terhubung ke internet seringkali kita melakukan hal-hal 
