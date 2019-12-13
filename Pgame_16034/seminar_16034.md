@@ -144,8 +144,8 @@ data tersebut yang nanti akan berdampak pada hal-hal yang sebaliknya yaitu negat
 #Jalan orang mengveda have I been pwned
 
 #Tolls google mengetahui apa saja yang dicari :
-#Tulis mengecek passwoard
-#masukan email dan akun yang pernah di hek
+#Tulis atau mengecek passwoard
+#Masukan email dan akun yang pernah di hek
 
 #Berikut ini merupakan Cyber Crime :
 #1.Ilmu Forensik
