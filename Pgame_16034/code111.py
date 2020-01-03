@@ -5,7 +5,7 @@ import pygame
 pygame.init()
 screen = pygame.display.set_mode((640, 480))
 done = False
-warna_bg = (180,100,100)
+warna_bg = (0,0,255)
 x,y=0,0
 xx,yy=1,1
 pygame.display.set_caption("Buat Garis")
